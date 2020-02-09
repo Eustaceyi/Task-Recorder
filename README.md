@@ -7,7 +7,7 @@
 ### This application could finish the following tasks:
 
 #### Welcome page: 
-- by sending `GET host:port/`
+- by requesting `GET host:port/`
 
 #### Task management
 - show all tasks: `GET host:port/task/tasks`
